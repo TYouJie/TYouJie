@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm You Jie</h1>
 <h3 align="center">A software engineering student studying in APU</h3>
 
-- 🌱 I’m currently learning **figma, cyber security**
+- 🌱 I’m currently learning **figma, fundamental info about cyber security**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
