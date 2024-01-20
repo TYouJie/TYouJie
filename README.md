@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm You Jie</h1>
-<h3 align="center">A software engineering student studying in APU</h3>
+<h3 align="center">A Year 2 Cyber Security Student</h3>
 
-- 🌱 I’m about to start my education journey in **cyber security**. 
+- 🌱 Starting my education journey in **cyber security**. 
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
