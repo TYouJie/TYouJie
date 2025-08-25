@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm You Jie</h1>
-<h3 align="center">A Year 2 Cyber Security Student</h3>
+<h3 align="center">A Final Year Cyber Security Student</h3>
 
 - 🌱 Starting my education journey in **cyber security**. 
 
